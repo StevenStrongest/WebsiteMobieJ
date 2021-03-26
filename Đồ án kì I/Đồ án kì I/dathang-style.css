@@ -1,0 +1,204 @@
+*{
+	background: #f4f4f4;
+}
+
+.main-left{
+	width: 65%;
+	float: left;
+}
+
+.main-left .header-text{
+	margin-top: 30px;
+}
+
+.main-left .header-text h3{
+	font-size: 35px;
+	color: #1f9cd0;
+	margin: 20px 0px;
+}
+
+.main-left .don_hang h5{
+	font-weight: bold;
+	margin-bottom: 40px;
+}
+
+.dat_hang{
+	padding-right: 40px; 
+}
+
+.main-right{
+	width: 35%;
+	float: left;
+	background: #f1f1f1;
+	border-left: 1px solid silver;
+	height: 100vh;
+}
+
+.main-right .text{
+	margin-top: 30px;
+	padding: 10px 20px;
+}
+
+.ct_sp{
+	height: 317px;
+	overflow: auto;
+}
+
+
+.ct_sp .img{
+	width: 80px;
+	display: inline-block;
+	margin: 10px 20px;
+	border: 1px solid silver;
+	position: relative;
+}
+
+.ct_sp .img span{
+	position: absolute;
+	top: 0px;
+	right: 0px;
+}
+
+.ct_sp .img img{
+	width: 100%;
+}
+
+.tt{
+	width: 200px;
+	display: inline-block;
+	margin: 15px 10px;
+}
+
+.tt span{
+	padding: 0px;
+}
+
+.tt h5{
+	font-size: 14px;
+}
+.thanh_toan{
+	padding: 20px 20px;
+}
+
+.gui_don{
+	padding: 20px 0px;
+}
+
+.gui_don a i{
+	padding: 0px 5px;
+}
+
+.gui_don button{
+	padding: 5px 25px;
+    background: #5992e8;
+    border-radius: 5px;
+    border: 1px solid #5992e8;
+    color: #fff;
+    font-weight: bold;
+}
+
+.gui_don button:hover{
+	background: #357ebd;
+}
+
+/*-----Hóa đơn----*/
+
+.hoadon{
+	width: 100%;
+	margin: 100px auto;
+}
+
+.hoadon .tb_dh i{
+	color: green;
+	font-size: 60px;
+	margin-right: 20px;
+}
+
+.hoadon .tb_dh span{
+	font-size: 20px;
+	font-weight: bold;
+}
+
+.hoadon .tb_dh p{
+	color: #777;
+	font-size: 14px;
+}
+
+.thong_tin{
+	width: 100%;
+	border: 1px solid silver;
+	padding: 10px 20px;
+}
+
+.thong_tin h3{
+	font-size: 20px;
+}
+
+.tt_nhan{
+	width: 49%;
+	display: inline-block;
+	text-align: left;
+}
+
+.tt_tra{
+	width: 49%;
+	display: inline-block;
+}
+
+.thong_tin ul li{
+	list-style-type: none;
+	color: #777;
+	font-size: 14px;
+}
+
+.thong_tin ul{
+	padding: 0px 8px;
+}
+
+.mh{
+	width: 65%;
+}
+
+.sum{
+	border: 1px solid silver;
+}
+
+.sum h5{
+	padding: 5px 10px;
+}
+
+.in_dh{
+	width: 100%;
+	text-align: right;
+	padding: 35px 10px;
+}
+
+.in_dh #ctn{
+	padding: 12px 10px;
+    background: #357ebd;
+    color: #fff;
+    border-radius: 6px;
+    text-decoration: none;
+}
+
+.in_dh #ctn:hover{
+	background: #2b8bde;
+}
+
+.in_dh #in{
+	margin-left: 20px;
+    font-size: 25px;
+    text-decoration: none;
+}
+
+.in_dh #in i{
+	font-size: 35px;
+}
+
+.none{
+	display: none;
+}
+
+
+
+
